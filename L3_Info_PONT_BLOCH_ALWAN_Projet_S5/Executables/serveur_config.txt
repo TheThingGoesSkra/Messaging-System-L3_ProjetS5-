@@ -1,0 +1,9 @@
+2002
+jdbc:mysql://localhost:3306/ProjetS5bdd
+root
+
+
+# LISTENING_PORT
+# URL_BDD
+# LOGIN_BDD
+# PASSWORD_BDD

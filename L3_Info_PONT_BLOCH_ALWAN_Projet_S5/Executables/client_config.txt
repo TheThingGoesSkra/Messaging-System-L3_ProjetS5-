@@ -1,0 +1,5 @@
+localhost
+2002
+
+# SERVER_HOSTNAME
+# SERVER_PORT
