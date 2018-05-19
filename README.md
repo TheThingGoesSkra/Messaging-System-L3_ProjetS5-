@@ -1,6 +1,6 @@
 Hello world !
 
-This is our first project on Github. We are open to any form of participation !
+This is our first project on Github. I am open to any form of participation !
 
 This is our own client-server application, allowing instant discussion with different groups of people.
 
