@@ -8,14 +8,14 @@ Here, there are two types of different groups. Users can individually open a thr
 
 Features:
 
-    Design graphic interface
-    View the status of a message (pending, received, viewed)
-    Display users writing
-    View online / offline status of known users by the client
-    Use possible offline and attempt automatic reconnection
-    Instant broadcast by the server
+  - Design graphic interface
+  - View the status of a message (pending, received, viewed)
+  - Display users writing
+  - View online / offline status of known users by the client
+  - Use possible offline and attempt automatic reconnection
+  - Instant broadcast by the server
 
 The problems to solve:
 
-    Allow the dynamic loading of messages using the jScrollBar (The second communication already has the necessary architecture, we put in comments corresponding queries on the server side.)
+  - Allow the dynamic loading of messages using the jScrollBar (The second communication already has the necessary architecture, we put in comments corresponding queries on the server side.)
 
