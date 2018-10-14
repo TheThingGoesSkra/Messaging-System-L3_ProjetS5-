@@ -8,11 +8,11 @@ Here, there are two types of different groups. Users can individually open a thr
 
 <p align="center">
   <br />
-  <img width="600" height="420" src="Screenshots/Capture0.PNG">
+  <img width="600" height="410" src="Screenshots/Capture0.PNG">
 </p>
 
 <p align="center">
-  <img width="600" height="420" src="Screenshots/Capture1.PNG">
+  <img width="600" height="410" src="Screenshots/Capture1.PNG">
     <br />
 </p>
 
@@ -33,5 +33,5 @@ The problems to solve :
  
 <p align="center">
     <br />
-  <img width="600" height="420" src="Screenshots/Capture2.PNG">
+  <img width="600" height="410" src="Screenshots/Capture2.PNG">
 </p>
