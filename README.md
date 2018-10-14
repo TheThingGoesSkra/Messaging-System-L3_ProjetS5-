@@ -26,5 +26,6 @@ The problems to solve:
 
   - Allow the dynamic loading of messages using the jScrollBar (The second communication already has the necessary architecture, we put in comments corresponding queries on the server side.)
 
-
+ 
+ 
 ![Screenshot](Screenshots/Capture2.PNG)
