@@ -6,7 +6,7 @@ This is our own client-server application, allowing instant discussion with diff
 
 Here, there are two types of different groups. Users can individually open a thread with a group of the opposite type, or open one with the one to which they belong. Other groups of the same type as theirs will remain unknown to them.
 
-![Screenshot](capture0.png)
+![Screenshot](Capture0.png)
 
 Features:
 
