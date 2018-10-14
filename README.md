@@ -13,6 +13,7 @@ Here, there are two types of different groups. Users can individually open a thr
 
 <p align="center">
   <img width="600" height="420" src="Screenshots/Capture1.PNG">
+    <br />
 </p>
 
 Features:
@@ -31,5 +32,6 @@ The problems to solve:
  
  
 <p align="center">
+    <br />
   <img width="600" height="420" src="Screenshots/Capture2.PNG">
 </p>
