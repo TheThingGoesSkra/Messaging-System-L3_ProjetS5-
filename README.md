@@ -7,7 +7,7 @@ This is our own client-server application, allowing instant discussion with diff
 Here, there are two types of different groups. Users can individually open a thread with a group of the opposite type, or open one with the one to which they belong. Other groups of the same type as theirs will remain unknown to them.
 
 <p align="center">
-  <img width="460" height="300" src="Screenshots/Capture0.PNG">
+  <img width="600" height="420" src="Screenshots/Capture0.PNG">
 </p>
 
 ![Screenshot](Screenshots/Capture0.PNG)
