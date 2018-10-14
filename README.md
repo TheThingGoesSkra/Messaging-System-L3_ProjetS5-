@@ -16,7 +16,7 @@ Here, there are two types of different groups. Users can individually open a thr
     <br />
 </p>
 
-Features:
+Features :
 
   - Design graphic interface
   - View the status of a message (pending, received, viewed)
@@ -25,7 +25,7 @@ Features:
   - Use possible offline and attempt automatic reconnection
   - Instant broadcast by the server
 
-The problems to solve:
+The problems to solve :
 
   - Allow the dynamic loading of messages using the jScrollBar (The second communication already has the necessary architecture, we put in comments corresponding queries on the server side.)
 
