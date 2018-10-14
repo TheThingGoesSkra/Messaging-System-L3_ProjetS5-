@@ -10,11 +10,9 @@ Here, there are two types of different groups. Users can individually open a thr
   <img width="600" height="420" src="Screenshots/Capture0.PNG">
 </p>
 
-![Screenshot](Screenshots/Capture0.PNG)
-
-
-![Screenshot](Screenshots/Capture1.PNG)
-
+<p align="center">
+  <img width="600" height="420" src="Screenshots/Capture1.PNG">
+</p>
 
 Features:
 
@@ -31,4 +29,6 @@ The problems to solve:
 
  
  
-![Screenshot](Screenshots/Capture2.PNG)
+<p align="center">
+  <img width="600" height="420" src="Screenshots/Capture2.PNG">
+</p>
